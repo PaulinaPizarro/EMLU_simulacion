@@ -1,4 +1,4 @@
-# EMLU_simulacion
+# Hola ayudantada/o!
 
 Revisen el código de jupyter notebook desequilibrio_choice.ipynb
 
